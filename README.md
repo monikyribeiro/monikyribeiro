@@ -3,9 +3,6 @@
 
 Sou Moniky Ribeiro, estudante de doutorado em Ciência da Computação pelo CIn/UFPE. 
 
-Estou aqui principalmente para continuar meus estudos em Python e Javascript.
-
-
 👩🏻‍🏫Professora de Programação e outras coisas - Atualmente no [CIn/UFPE](https://portal.cin.ufpe.br/)
 
 🔭Atualmente pesquiso Requisitos de segurança **(Safety)** e Sistemas críticos
@@ -30,8 +27,6 @@ Estou aqui principalmente para continuar meus estudos em Python e Javascript.
 
 I'm Moniky Ribeiro, a Ph.D. student in Computer Science at CIn/UFPE.
 
-I'm especially here to continue my studies in Python and Javascript.
-
 
 👩🏻‍🏫 Programming Teacher and others subjects - Currently at [CIn/UFPE](https://portal.cin.ufpe.br/)
 
@@ -47,13 +42,13 @@ I'm especially here to continue my studies in Python and Javascript.
 
 ### Let's go!
 
-#### You find me at
+ <!-- #### You find me at
 &nbsp;<a href="[https://br.linkedin.com/in/lucas-leal-santos](https://www.instagram.com/monikyribeiro)">
   <img src="![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)">
 </a>&nbsp;
 &nbsp;<a href="https://www.linkedin.com/in/monikyribeiro">
   <img src="![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)">
-</a>&nbsp;
+</a>&nbsp;--> 
 
 
 
