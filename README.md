@@ -1,16 +1,63 @@
-### Hi there 👋
+## Oie ✌🏼
 
-<!--
-**monikyribeiro/monikyribeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Sou Moniky Ribeiro, estudante de doutorado em Ciência da Computação pelo CIn/UFPE. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Estou aqui principalmente para continuar meus estudos em Python e Javascript.
+
+
+👩🏻‍🏫Professora de Programação e outras coisas - Atualmente no [CIn/UFPE](https://portal.cin.ufpe.br/)
+
+🔭Atualmente pesquiso Requisitos de segurança **(Safety)** e Sistemas críticos
+
+🌱Atualmente busco continuar meus estudos em **Python** e **Javascript**(Logo mais, projetos aqui💜)
+
+📫 smsr@cin.ufpr.br ou monikyr@gmail.com
+
+⚡Uma mineira de [**Montes Claros/MG**](https://pt.wikipedia.org/wiki/Montes_Claros) em **Recife**/Pernambuco (Pão de queijo & Bolo de Rolo)
+
+🏗️ [Site](https://www.cin.ufpe.br/~smsr/) em andamento
+
+### Bora lá!
+
+
+
+
+(***English***)
+
+## Hi ✌🏼
+
+
+I'm Moniky Ribeiro, a Ph.D. student in Computer Science at CIn/UFPE.
+
+I'm especially here to continue my studies in Python and Javascript.
+
+
+👩🏻‍🏫 Programming Teacher and others subjects - Currently at [CIn/UFPE](https://portal.cin.ufpe.br/)
+
+🔭I am currently researching Safety Requirements **(Safety)** and Critical Systems
+
+🌱I'm currently trying to improve myself in **Python** and **Javascript** (Projects here soon💜)
+
+📫 smsr@cin.ufpr.br ou monikyr@gmail.com
+
+⚡A "mineira" of [**Montes Claros/MG**](https://pt.wikipedia.org/wiki/Montes_Claros) in "Recife/Pernambuco"  ("Pão de queijo" && "Bolo de Rolo")
+
+🏗️ [Site](https://www.cin.ufpe.br/~smsr/) in progress
+
+### Let's go!
+
+#### You find me at
+&nbsp;<a href="[https://br.linkedin.com/in/lucas-leal-santos](https://www.instagram.com/monikyribeiro)">
+  <img src="![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)">
+</a>&nbsp;
+&nbsp;<a href="https://www.linkedin.com/in/monikyribeiro">
+  <img src="![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)">
+</a>&nbsp;
+
+
+
+
+
+
+
