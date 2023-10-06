@@ -7,7 +7,7 @@ Sou Moniky Ribeiro, estudante de doutorado em Ciência da Computação pelo CIn/
 
 🔭Atualmente pesquiso Requisitos de segurança **(Safety)** e Sistemas críticos
 
-🌱Atualmente busco continuar meus estudos em **Python** e **Javascript**(Logo mais, projetos aqui💜)
+🌱Atualmente busco interessada em **Python** e **Javascript**(Logo mais, projetos aqui💜)
 
 📫 smsr@cin.ufpr.br ou monikyr@gmail.com
 
