@@ -5,9 +5,9 @@ Sou Moniky Ribeiro, estudante de doutorado em Ciência da Computação pelo CIn/
 
 👩🏻‍🏫Professora de Programação e outras coisas - Atualmente no [CIn/UFPE](https://portal.cin.ufpe.br/)
 
-🔭Atualmente pesquiso Requisitos de segurança **(Safety)** e Sistemas críticos
+🔭 Requisitos de segurança **(Safety)** e Sistemas críticos são minhas áreas de pesquisa
 
-🌱Interessada nesse momento em **Python** e **Javascript**(Logo mais, projetos aqui💜)
+🌱 Agora aprofundando em **Python** e **Javascript**(Logo mais, projetos aqui💜)
 
 📫 smsr@cin.ufpr.br ou monikyr@gmail.com
 
@@ -20,9 +20,9 @@ Sou Moniky Ribeiro, estudante de doutorado em Ciência da Computação pelo CIn/
 
 
 
-(***English***)
+----------------
 
-## Hi ✌🏼
+### Hi ✌🏼
 
 
 I'm Moniky Ribeiro, a Ph.D. student in Computer Science at CIn/UFPE.
@@ -30,11 +30,11 @@ I'm Moniky Ribeiro, a Ph.D. student in Computer Science at CIn/UFPE.
 
 👩🏻‍🏫 Programming Teacher and others subjects - Currently at [CIn/UFPE](https://portal.cin.ufpe.br/)
 
-🔭I am currently researching Safety Requirements **(Safety)** and Critical Systems
+🔭 **Safety requirements** and Critical systems are my research areas
 
-🌱I'm currently trying to improve myself in **Python** and **Javascript** (Projects here soon💜)
+🌱 Now delving deeper into **Python** and **Javascript** (Projects here soon💜)
 
-📫 smsr@cin.ufpr.br ou monikyr@gmail.com
+📫 smsr@cin.ufpr.br || monikyr@gmail.com
 
 ⚡A "mineira" of [**Montes Claros/MG**](https://pt.wikipedia.org/wiki/Montes_Claros) in "Recife/Pernambuco"  ("Pão de queijo" && "Bolo de Rolo")
 
