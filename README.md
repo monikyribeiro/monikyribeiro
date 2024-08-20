@@ -36,7 +36,7 @@ I'm Moniky Ribeiro, a Ph.D. student in Computer Science at CIn/UFPE.
 
 📫 smsr@cin.ufpr.br || monikyr@gmail.com
 
-⚡A "mineira" of [**Montes Claros/MG**](https://pt.wikipedia.org/wiki/Montes_Claros) in "Recife/Pernambuco"  ("Pão de queijo" && "Bolo de Rolo")
+⚡A "mineira" of [**Montes Claros/MG**](https://pt.wikipedia.org/wiki/Montes_Claros) in "Recife/Pernambuco"
 
 🏗️ [Site](https://www.cin.ufpe.br/~smsr/) in progress
 
