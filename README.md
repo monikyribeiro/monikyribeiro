@@ -11,7 +11,7 @@ Sou Moniky Ribeiro, estudante de doutorado em Ciência da Computação pelo CIn/
 
 📫 smsr@cin.ufpr.br ou monikyr@gmail.com
 
-⚡Uma mineira de [**Montes Claros/MG**](https://pt.wikipedia.org/wiki/Montes_Claros) em **Recife**/Pernambuco (Pão de queijo & Bolo de Rolo)
+⚡Uma mineira de [**Montes Claros/MG**](https://pt.wikipedia.org/wiki/Montes_Claros) em **Recife**/Pernambuco
 
 🏗️ [Site](https://www.cin.ufpe.br/~smsr/) em andamento
 
