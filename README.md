@@ -3,17 +3,17 @@
 
 Sou Moniky Ribeiro, estudante de doutorado em Ciência da Computação pelo CIn/UFPE. 
 
-👩🏻‍🏫Professora de Programação e outras coisas - Atualmente no [CIn/UFPE](https://portal.cin.ufpe.br/)
+👩🏻‍🏫Professora de Programação e outras coisas - Anteriormente no [CIn/UFPE](https://portal.cin.ufpe.br/)
 
 🔭 Requisitos de segurança **(Safety)** e Sistemas críticos são minhas áreas de pesquisa
 
-🌱 Agora aprofundando em **Python** e **Javascript**(Logo mais, projetos aqui💜)
+🌱 Agora como pesquisadora no **LICA** na Unimontes/MG (FAPEMIG) 
 
 📫 smsr@cin.ufpr.br ou monikyr@gmail.com
 
 ⚡Uma mineira de [**Montes Claros/MG**](https://pt.wikipedia.org/wiki/Montes_Claros) em **Recife**/Pernambuco
 
-🏗️ [Site](https://www.cin.ufpe.br/~smsr/) em andamento
+🏗️ [Site](https://www.cin.ufpe.br/~smsr/)
 
 ### Bora lá!
 
@@ -32,13 +32,13 @@ I'm Moniky Ribeiro, a Ph.D. student in Computer Science at CIn/UFPE.
 
 🔭 **Safety requirements** and Critical systems are my research areas
 
-🌱 Now delving deeper into **Python** and **Javascript** (Projects here soon💜)
+🌱 Currently a researcher at **LICA** at Unimontes/MG (FAPEMIG)"
 
 📫 smsr@cin.ufpr.br || monikyr@gmail.com
 
 ⚡A "mineira" of [**Montes Claros/MG**](https://pt.wikipedia.org/wiki/Montes_Claros) in "Recife/Pernambuco"
 
-🏗️ [Site](https://www.cin.ufpe.br/~smsr/) in progress
+🏗️ [Site](https://www.cin.ufpe.br/~smsr/)
 
 ### Let's go!
 
