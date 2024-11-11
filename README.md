@@ -13,7 +13,7 @@ Sou Moniky Ribeiro, estudante de doutorado em Ciência da Computação pelo CIn/
 
 ⚡Uma mineira de [**Montes Claros/MG**](https://pt.wikipedia.org/wiki/Montes_Claros) em **Recife**/Pernambuco
 
-🏗️ [Site](https://www.cin.ufpe.br/~smsr/)
+[Meu Site](https://www.cin.ufpe.br/~smsr/)
 ### Bora lá!
 
 
@@ -37,7 +37,7 @@ I'm Moniky Ribeiro, a Ph.D. student in Computer Science at CIn/UFPE.
 
 ⚡A "mineira" of [**Montes Claros/MG**](https://pt.wikipedia.org/wiki/Montes_Claros) in "Recife/Pernambuco"
 
-🏗️ [Site](https://www.cin.ufpe.br/~smsr/)
+🏗️ [My Site](https://www.cin.ufpe.br/~smsr/)
 
 ### Let's go!
 
